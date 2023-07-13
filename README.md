@@ -29,3 +29,4 @@ Twin Oaks has an extensive code of community bylaws governing use of community b
 
 State professional practice laws and hospital by-laws determine which licensed professionals can administer anesthesia.
 
+A by-law (bye-law, by(e)law, by(e) law), or as it is most commonly known in the United States bylaws, is a set of rules or law established by an organization or community so as to regulate itself, as allowed or provided for by some higher authority. The higher authority, generally a legislature or some other government body, establishes the degree of control that the by-laws may exercise. By-laws may be established by entities such as a business corporation, a neighbourhood association, or depending on the jurisdiction, a municipality.
