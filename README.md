@@ -1,5 +1,6 @@
 ## bylaws
-a law that is made by a local authority and that has to be obeyed only in that area
+a law that is made by a local authority and that has to be obeyed only in that area. 
+
 स्‍थानीय प्रशासन द्वारा बनाया गया नियम जो केवल उसी क्ष्‍ोत्र में लागू होता है; उप-नियम, उप-विधि
 
 a law made by local government that only relates to its particular region:
@@ -30,3 +31,7 @@ Twin Oaks has an extensive code of community bylaws governing use of community b
 State professional practice laws and hospital by-laws determine which licensed professionals can administer anesthesia.
 
 A by-law (bye-law, by(e)law, by(e) law), or as it is most commonly known in the United States bylaws, is a set of rules or law established by an organization or community so as to regulate itself, as allowed or provided for by some higher authority. The higher authority, generally a legislature or some other government body, establishes the degree of control that the by-laws may exercise. By-laws may be established by entities such as a business corporation, a neighbourhood association, or depending on the jurisdiction, a municipality.
+
+### Organizational by-laws
+
+Corporate and organizational by-laws regulate only the organization to which they apply and are generally concerned with the operation of the organization, setting out the form, manner or procedure in which a company or organisation should be run. Corporate by-laws are drafted by a corporation's founders or directors under the authority of its charter or articles of incorporation.
